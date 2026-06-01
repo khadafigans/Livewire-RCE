@@ -1,0 +1,9 @@
+requests>=2.31.0
+urllib3>=2.0.0
+beautifulsoup4
+certifi==2025.7.14
+charset-normalizer==3.4.2
+idna==3.10
+pycryptodome==3.23.0
+requests==2.32.4
+urllib3==2.5.0
